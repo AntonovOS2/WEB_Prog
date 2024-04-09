@@ -1,5 +1,6 @@
 body{
     background-color:DarkSlateBlue;
+
 }
 
 main {
@@ -27,6 +28,11 @@ h1.Shapka {
 .pic1 {
     width: 1890px;
     height: 500px;
+}
+
+.pic2 {
+    width: 400px;
+    height: 400px;
 }
 
 nav {
@@ -62,8 +68,11 @@ ol.prim {
 
 li {
     line-height: 55px;
+    color:white;
+    text-align: left;
 }
 
 a {
     color:white;
 }
+
