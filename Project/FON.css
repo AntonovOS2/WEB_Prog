@@ -141,3 +141,7 @@ span {
     text-decoration: underline;
 }
 
+ol.register {
+    display: inline;
+    padding-left: 600px;
+}
