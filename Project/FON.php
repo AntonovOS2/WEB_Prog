@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +25,15 @@
                 Контакты
             </ol> </a>
             <ol  class ='register'>
-                Регистрация/авторизация
+                <a href = "http://webprog/Project/index1.php">
+                    Регистрация/авторизация </a>
+            </ol>
+
+            <ol  class ='register'>
+                    <?php
+                    $get = $_GET['get'];
+                    echo $get;
+                    ?>
             </ol>
 
         </nav>
